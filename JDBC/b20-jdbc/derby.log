@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Oct 19 18:08:33 ICT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017c-983d-17bd-0000078707f0 
+on database directory G:\download\b20-jdbc\sampledb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6d5380c2 
+Loaded from file:/G:/download/b20-jdbc/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.2+7-67
+user.dir=G:\download\b20-jdbc
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
