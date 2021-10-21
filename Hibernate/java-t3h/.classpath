@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="source-code/b20-jdbc/src"/>
+	<classpathentry kind="src" path="source-code/hibernate1/.mvn/wrapper"/>
+	<classpathentry kind="src" path="source-code/hibernate1/src/main/java"/>
+	<classpathentry kind="src" path="source-code/hibernate1/src/test/java"/>
+	<classpathentry kind="src" path="source-code/SpringBootJDBC/.mvn/wrapper"/>
+	<classpathentry kind="src" path="source-code/SpringBootJDBC/src/main/java"/>
+	<classpathentry kind="src" path="source-code/SpringBootJDBC/src/test/java"/>
+	<classpathentry kind="lib" path="source-code/b20-jdbc/lib/derby.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
